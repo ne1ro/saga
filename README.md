@@ -4,7 +4,7 @@ A Clojure library designed for Saga pattern.
 
 ## Usage
 
-FIXME
+This library is still in it's early stage and it's not recommended to use yet.
 
 ## License
 

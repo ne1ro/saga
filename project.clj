@@ -1,4 +1,4 @@
-(defproject saga "0.1.0-SNAPSHOT"
+(defproject saga "0.0.1-SNAPSHOT"
   :description "Saga pattern library"
   :url "http://example.com/FIXME"
   :license {:name "MIT"}
